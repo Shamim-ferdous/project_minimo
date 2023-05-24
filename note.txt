@@ -1,0 +1,32 @@
+color:
+	black- #000000
+	ash- #626262
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
